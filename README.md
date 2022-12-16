@@ -42,6 +42,17 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 Link
 : https://netflix1-f13a18.netlify.app/
 
+##Project Details:
+
+👉This project is built up by Reactjs .
+
+👉For the Api we used here TMDB so the details of movie page we can get easily.
+
+👉We are using here SASS (This is the advance feature of CSS write syntax less but it work efficiently)
+
+👉The Movie Database API, we have used axios, sass and much more
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
